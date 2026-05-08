@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form26)
+
+1.Capital of Louisiana:
+A: Sacramento
+B: Baton Rouge
+C: Olympia
+D: Boston
+
+2.Capital of North Dakota:
+A: Oklahoma City
+B: Bismarck
+C: Salt Lake City
+D: Providence
+
+3.Capital of Mississippi:
+A: Harrisburg
+B: Jackson
+C: Carson City
+D: Providence
+
+4.Capital of Indiana:
+A: Albany
+B: Salt Lake City
+C: Indianapolis
+D: Frankfort
+
+5.Capital of Montana:
+A: Helena
+B: Albany
+C: Columbus
+D: Frankfort
+
+6.Capital of Iowa:
+A: Des Moines
+B: Dover
+C: Juneau
+D: Santa Fe
+
+7.Capital of Oklahoma:
+A: Atlanta
+B: Hartford
+C: Harrisburg
+D: Oklahoma City
+
+8.Capital of Nevada:
+A: Carson City
+B: Helena
+C: Montpelier
+D: Salt Lake City
+
+9.Capital of Oregon:
+A: Salem
+B: Harrisburg
+C: Hartford
+D: Montgomery
+
+10.Capital of Wisconsin:
+A: Madison
+B: Columbia
+C: Boise
+D: Montpelier
+
+11.Capital of Michigan:
+A: Hartford
+B: Salem
+C: Carson City
+D: Lansing
+
+12.Capital of Maine:
+A: Augusta
+B: Jackson
+C: Carson City
+D: Lansing
+
+13.Capital of Arkansas:
+A: Jackson
+B: Little Rock
+C: Harrisburg
+D: Springfield
+
+14.Capital of Rhode Island:
+A: Providence
+B: Baton Rouge
+C: Montpelier
+D: Dover
+
+15.Capital of New Mexico:
+A: Santa Fe
+B: Helena
+C: Providence
+D: Salem
+
+16.Capital of Arizona:
+A: Annapolis
+B: Phoenix
+C: Nashville
+D: Tallahassee
+
+17.Capital of New Hampshire:
+A: Madison
+B: Jackson
+C: Concord
+D: Nashville
+
+18.Capital of Wyoming:
+A: Jackson
+B: Cheyenne
+C: Richmond
+D: Albany
+
+19.Capital of Florida:
+A: Denver
+B: Montgomery
+C: Tallahassee
+D: Boise
+
+20.Capital of West Virginia:
+A: Charleston
+B: Atlanta
+C: Albany
+D: Columbia
+
+21.Capital of Pennsylvania:
+A: Topeka
+B: Harrisburg
+C: Nashville
+D: Juneau
+
+22.Capital of Delaware:
+A: Dover
+B: Indianapolis
+C: Nashville
+D: Montgomery
+
+23.Capital of California:
+A: Jackson
+B: Concord
+C: Sacramento
+D: Harrisburg
+
+24.Capital of Ohio:
+A: Augusta
+B: Charleston
+C: Salem
+D: Columbus
+
+25.Capital of North Carolina:
+A: Baton Rouge
+B: Raleigh
+C: Olympia
+D: Oklahoma City
+
+26.Capital of Texas:
+A: Des Moines
+B: Atlanta
+C: Oklahoma City
+D: Austin
+
+27.Capital of Nebraska:
+A: Columbia
+B: Lincoln
+C: Little Rock
+D: Concord
+
+28.Capital of Georgia:
+A: Atlanta
+B: Springfield
+C: Montgomery
+D: Juneau
+
+29.Capital of Minnesota:
+A: Olympia
+B: Richmond
+C: Frankfort
+D: Saint Paul
+
+30.Capital of New York:
+A: Sacramento
+B: Pierre
+C: Salt Lake City
+D: Albany
+
+31.Capital of Alaska:
+A: Topeka
+B: Dover
+C: Hartford
+D: Juneau
+
+32.Capital of Kentucky:
+A: Nashville
+B: Baton Rouge
+C: Salt Lake City
+D: Frankfort
+
+33.Capital of Maryland:
+A: Raleigh
+B: Nashville
+C: Annapolis
+D: Olympia
+
+34.Capital of Utah:
+A: Saint Paul
+B: Honolulu
+C: Carson City
+D: Salt Lake City
+
+35.Capital of Alabama:
+A: Montgomery
+B: Honolulu
+C: Boise
+D: Annapolis
+
+36.Capital of Washington:
+A: Oklahoma City
+B: Phoenix
+C: Olympia
+D: Honolulu
+
+37.Capital of Connecticut:
+A: Helena
+B: Juneau
+C: Des Moines
+D: Hartford
+
+38.Capital of South Dakota:
+A: Baton Rouge
+B: Columbus
+C: Atlanta
+D: Pierre
+
+39.Capital of New Jersey:
+A: Trenton
+B: Little Rock
+C: Raleigh
+D: Phoenix
+
+40.Capital of South Carolina:
+A: Raleigh
+B: Santa Fe
+C: Topeka
+D: Columbia
+
+41.Capital of Illinois:
+A: Baton Rouge
+B: Springfield
+C: Santa Fe
+D: Jackson
+
+42.Capital of Hawaii:
+A: Topeka
+B: Charleston
+C: Harrisburg
+D: Honolulu
+
+43.Capital of Colorado:
+A: Denver
+B: Bismarck
+C: Dover
+D: Baton Rouge
+
+44.Capital of Massachusetts:
+A: Boston
+B: Albany
+C: Salt Lake City
+D: Raleigh
+
+45.Capital of Idaho:
+A: Pierre
+B: Olympia
+C: Boise
+D: Columbus
+
+46.Capital of Kansas:
+A: Tallahassee
+B: Santa Fe
+C: Springfield
+D: Topeka
+
+47.Capital of Missouri:
+A: Jefferson City
+B: Boston
+C: Salt Lake City
+D: Des Moines
+
+48.Capital of Vermont:
+A: Indianapolis
+B: Denver
+C: Hartford
+D: Montpelier
+
+49.Capital of Virginia:
+A: Santa Fe
+B: Richmond
+C: Dover
+D: Phoenix
+
+50.Capital of Tennessee:
+A: Denver
+B: Nashville
+C: Austin
+D: Topeka
+

@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form32)
+
+1.Capital of Rhode Island:
+A: Providence
+B: Atlanta
+C: Santa Fe
+D: Baton Rouge
+
+2.Capital of Massachusetts:
+A: Carson City
+B: Dover
+C: Annapolis
+D: Boston
+
+3.Capital of Louisiana:
+A: Montgomery
+B: Denver
+C: Baton Rouge
+D: Salt Lake City
+
+4.Capital of Ohio:
+A: Madison
+B: Jackson
+C: Columbus
+D: Santa Fe
+
+5.Capital of Nebraska:
+A: Raleigh
+B: Lincoln
+C: Carson City
+D: Lansing
+
+6.Capital of West Virginia:
+A: Little Rock
+B: Santa Fe
+C: Annapolis
+D: Charleston
+
+7.Capital of Nevada:
+A: Oklahoma City
+B: Carson City
+C: Trenton
+D: Albany
+
+8.Capital of North Dakota:
+A: Harrisburg
+B: Saint Paul
+C: Montgomery
+D: Bismarck
+
+9.Capital of Alabama:
+A: Columbus
+B: Boise
+C: Jackson
+D: Montgomery
+
+10.Capital of Idaho:
+A: Boise
+B: Sacramento
+C: Saint Paul
+D: Augusta
+
+11.Capital of Pennsylvania:
+A: Harrisburg
+B: Helena
+C: Denver
+D: Saint Paul
+
+12.Capital of Montana:
+A: Pierre
+B: Helena
+C: Salem
+D: Oklahoma City
+
+13.Capital of Oklahoma:
+A: Des Moines
+B: Oklahoma City
+C: Topeka
+D: Phoenix
+
+14.Capital of Illinois:
+A: Carson City
+B: Nashville
+C: Oklahoma City
+D: Springfield
+
+15.Capital of Missouri:
+A: Pierre
+B: Austin
+C: Frankfort
+D: Jefferson City
+
+16.Capital of Oregon:
+A: Santa Fe
+B: Salem
+C: Charleston
+D: Harrisburg
+
+17.Capital of Wyoming:
+A: Pierre
+B: Phoenix
+C: Boston
+D: Cheyenne
+
+18.Capital of North Carolina:
+A: Raleigh
+B: Lincoln
+C: Dover
+D: Helena
+
+19.Capital of New Jersey:
+A: Tallahassee
+B: Jefferson City
+C: Saint Paul
+D: Trenton
+
+20.Capital of Hawaii:
+A: Honolulu
+B: Tallahassee
+C: Albany
+D: Pierre
+
+21.Capital of Iowa:
+A: Des Moines
+B: Lansing
+C: Columbia
+D: Salt Lake City
+
+22.Capital of Arizona:
+A: Indianapolis
+B: Oklahoma City
+C: Pierre
+D: Phoenix
+
+23.Capital of Kansas:
+A: Little Rock
+B: Lansing
+C: Topeka
+D: Albany
+
+24.Capital of California:
+A: Providence
+B: Frankfort
+C: Sacramento
+D: Columbia
+
+25.Capital of Georgia:
+A: Atlanta
+B: Indianapolis
+C: Raleigh
+D: Santa Fe
+
+26.Capital of Washington:
+A: Boston
+B: Pierre
+C: Topeka
+D: Olympia
+
+27.Capital of Alaska:
+A: Hartford
+B: Juneau
+C: Honolulu
+D: Montgomery
+
+28.Capital of New York:
+A: Albany
+B: Columbia
+C: Boise
+D: Bismarck
+
+29.Capital of South Dakota:
+A: Concord
+B: Dover
+C: Pierre
+D: Indianapolis
+
+30.Capital of Texas:
+A: Austin
+B: Pierre
+C: Dover
+D: Juneau
+
+31.Capital of Connecticut:
+A: Helena
+B: Providence
+C: Hartford
+D: Annapolis
+
+32.Capital of Vermont:
+A: Boston
+B: Topeka
+C: Montpelier
+D: Honolulu
+
+33.Capital of Minnesota:
+A: Salt Lake City
+B: Augusta
+C: Pierre
+D: Saint Paul
+
+34.Capital of Indiana:
+A: Indianapolis
+B: Charleston
+C: Trenton
+D: Boise
+
+35.Capital of Utah:
+A: Frankfort
+B: Salt Lake City
+C: Jackson
+D: Trenton
+
+36.Capital of Tennessee:
+A: Lansing
+B: Montgomery
+C: Nashville
+D: Tallahassee
+
+37.Capital of Michigan:
+A: Denver
+B: Lansing
+C: Cheyenne
+D: Topeka
+
+38.Capital of South Carolina:
+A: Albany
+B: Indianapolis
+C: Columbia
+D: Topeka
+
+39.Capital of New Mexico:
+A: Santa Fe
+B: Helena
+C: Cheyenne
+D: Columbus
+
+40.Capital of Mississippi:
+A: Jackson
+B: Harrisburg
+C: Annapolis
+D: Denver
+
+41.Capital of Kentucky:
+A: Bismarck
+B: Frankfort
+C: Austin
+D: Raleigh
+
+42.Capital of Arkansas:
+A: Charleston
+B: Austin
+C: Richmond
+D: Little Rock
+
+43.Capital of Colorado:
+A: Nashville
+B: Denver
+C: Raleigh
+D: Boston
+
+44.Capital of Virginia:
+A: Madison
+B: Albany
+C: Richmond
+D: Lansing
+
+45.Capital of Florida:
+A: Frankfort
+B: Tallahassee
+C: Des Moines
+D: Denver
+
+46.Capital of Wisconsin:
+A: Lincoln
+B: Little Rock
+C: Des Moines
+D: Madison
+
+47.Capital of New Hampshire:
+A: Columbia
+B: Helena
+C: Concord
+D: Tallahassee
+
+48.Capital of Maryland:
+A: Cheyenne
+B: Annapolis
+C: Santa Fe
+D: Nashville
+
+49.Capital of Delaware:
+A: Dover
+B: Montgomery
+C: Honolulu
+D: Sacramento
+
+50.Capital of Maine:
+A: Augusta
+B: Madison
+C: Des Moines
+D: Santa Fe
+

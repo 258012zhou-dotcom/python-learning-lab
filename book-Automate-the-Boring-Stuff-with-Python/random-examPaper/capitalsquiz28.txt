@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form28)
+
+1.Capital of Nebraska:
+A: Baton Rouge
+B: Lincoln
+C: Montgomery
+D: Bismarck
+
+2.Capital of Missouri:
+A: Sacramento
+B: Lincoln
+C: Columbia
+D: Jefferson City
+
+3.Capital of New Jersey:
+A: Oklahoma City
+B: Honolulu
+C: Trenton
+D: Concord
+
+4.Capital of Hawaii:
+A: Honolulu
+B: Pierre
+C: Phoenix
+D: Helena
+
+5.Capital of Iowa:
+A: Lansing
+B: Tallahassee
+C: Des Moines
+D: Boston
+
+6.Capital of Kentucky:
+A: Montgomery
+B: Frankfort
+C: Dover
+D: Sacramento
+
+7.Capital of Pennsylvania:
+A: Saint Paul
+B: Harrisburg
+C: Santa Fe
+D: Phoenix
+
+8.Capital of Colorado:
+A: Austin
+B: Little Rock
+C: Denver
+D: Hartford
+
+9.Capital of New Hampshire:
+A: Montgomery
+B: Concord
+C: Phoenix
+D: Harrisburg
+
+10.Capital of Oregon:
+A: Trenton
+B: Dover
+C: Salem
+D: Helena
+
+11.Capital of North Dakota:
+A: Hartford
+B: Montpelier
+C: Bismarck
+D: Saint Paul
+
+12.Capital of Wyoming:
+A: Topeka
+B: Salt Lake City
+C: Montpelier
+D: Cheyenne
+
+13.Capital of Wisconsin:
+A: Springfield
+B: Richmond
+C: Madison
+D: Indianapolis
+
+14.Capital of Georgia:
+A: Atlanta
+B: Topeka
+C: Jackson
+D: Hartford
+
+15.Capital of South Dakota:
+A: Concord
+B: Frankfort
+C: Dover
+D: Pierre
+
+16.Capital of West Virginia:
+A: Augusta
+B: Providence
+C: Charleston
+D: Concord
+
+17.Capital of Montana:
+A: Helena
+B: Little Rock
+C: Lansing
+D: Montpelier
+
+18.Capital of South Carolina:
+A: Oklahoma City
+B: Harrisburg
+C: Columbia
+D: Richmond
+
+19.Capital of North Carolina:
+A: Harrisburg
+B: Jackson
+C: Raleigh
+D: Columbus
+
+20.Capital of Massachusetts:
+A: Cheyenne
+B: Boston
+C: Annapolis
+D: Olympia
+
+21.Capital of Maine:
+A: Oklahoma City
+B: Augusta
+C: Carson City
+D: Austin
+
+22.Capital of Illinois:
+A: Juneau
+B: Saint Paul
+C: Springfield
+D: Tallahassee
+
+23.Capital of Connecticut:
+A: Hartford
+B: Annapolis
+C: Richmond
+D: Trenton
+
+24.Capital of New Mexico:
+A: Helena
+B: Charleston
+C: Santa Fe
+D: Oklahoma City
+
+25.Capital of Louisiana:
+A: Baton Rouge
+B: Harrisburg
+C: Columbia
+D: Albany
+
+26.Capital of Utah:
+A: Santa Fe
+B: Columbus
+C: Dover
+D: Salt Lake City
+
+27.Capital of New York:
+A: Honolulu
+B: Lincoln
+C: Charleston
+D: Albany
+
+28.Capital of Ohio:
+A: Honolulu
+B: Juneau
+C: Indianapolis
+D: Columbus
+
+29.Capital of Idaho:
+A: Raleigh
+B: Phoenix
+C: Saint Paul
+D: Boise
+
+30.Capital of Maryland:
+A: Saint Paul
+B: Salt Lake City
+C: Columbus
+D: Annapolis
+
+31.Capital of Minnesota:
+A: Saint Paul
+B: Nashville
+C: Jefferson City
+D: Olympia
+
+32.Capital of Kansas:
+A: Montpelier
+B: Montgomery
+C: Hartford
+D: Topeka
+
+33.Capital of Alabama:
+A: Charleston
+B: Sacramento
+C: Montgomery
+D: Hartford
+
+34.Capital of Arkansas:
+A: Little Rock
+B: Atlanta
+C: Salt Lake City
+D: Boston
+
+35.Capital of California:
+A: Columbus
+B: Columbia
+C: Sacramento
+D: Concord
+
+36.Capital of Tennessee:
+A: Helena
+B: Nashville
+C: Tallahassee
+D: Indianapolis
+
+37.Capital of Arizona:
+A: Jefferson City
+B: Nashville
+C: Phoenix
+D: Lansing
+
+38.Capital of Alaska:
+A: Providence
+B: Jefferson City
+C: Juneau
+D: Albany
+
+39.Capital of Delaware:
+A: Montgomery
+B: Cheyenne
+C: Frankfort
+D: Dover
+
+40.Capital of Indiana:
+A: Raleigh
+B: Indianapolis
+C: Pierre
+D: Boise
+
+41.Capital of Oklahoma:
+A: Austin
+B: Oklahoma City
+C: Columbia
+D: Annapolis
+
+42.Capital of Washington:
+A: Little Rock
+B: Olympia
+C: Salt Lake City
+D: Salem
+
+43.Capital of Mississippi:
+A: Jackson
+B: Pierre
+C: Lincoln
+D: Nashville
+
+44.Capital of Rhode Island:
+A: Nashville
+B: Columbia
+C: Providence
+D: Little Rock
+
+45.Capital of Michigan:
+A: Richmond
+B: Madison
+C: Lansing
+D: Montpelier
+
+46.Capital of Florida:
+A: Springfield
+B: Tallahassee
+C: Helena
+D: Columbus
+
+47.Capital of Nevada:
+A: Indianapolis
+B: Carson City
+C: Jefferson City
+D: Topeka
+
+48.Capital of Virginia:
+A: Madison
+B: Montpelier
+C: Jackson
+D: Richmond
+
+49.Capital of Texas:
+A: Austin
+B: Richmond
+C: Augusta
+D: Denver
+
+50.Capital of Vermont:
+A: Indianapolis
+B: Hartford
+C: Montpelier
+D: Montgomery
+

@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form10)
+
+1.Capital of Washington:
+A: Springfield
+B: Austin
+C: Tallahassee
+D: Olympia
+
+2.Capital of Virginia:
+A: Helena
+B: Richmond
+C: Olympia
+D: Nashville
+
+3.Capital of Texas:
+A: Little Rock
+B: Baton Rouge
+C: Jackson
+D: Austin
+
+4.Capital of Nebraska:
+A: Indianapolis
+B: Lincoln
+C: Austin
+D: Bismarck
+
+5.Capital of Idaho:
+A: Jefferson City
+B: Sacramento
+C: Boise
+D: Lincoln
+
+6.Capital of Maryland:
+A: Annapolis
+B: Charleston
+C: Boston
+D: Pierre
+
+7.Capital of Vermont:
+A: Baton Rouge
+B: Montpelier
+C: Bismarck
+D: Frankfort
+
+8.Capital of Wyoming:
+A: Springfield
+B: Saint Paul
+C: Carson City
+D: Cheyenne
+
+9.Capital of Tennessee:
+A: Carson City
+B: Nashville
+C: Springfield
+D: Tallahassee
+
+10.Capital of Massachusetts:
+A: Jackson
+B: Boston
+C: Columbia
+D: Olympia
+
+11.Capital of Kentucky:
+A: Harrisburg
+B: Little Rock
+C: Topeka
+D: Frankfort
+
+12.Capital of Pennsylvania:
+A: Boise
+B: Springfield
+C: Harrisburg
+D: Raleigh
+
+13.Capital of Hawaii:
+A: Cheyenne
+B: Springfield
+C: Honolulu
+D: Jefferson City
+
+14.Capital of Louisiana:
+A: Providence
+B: Juneau
+C: Albany
+D: Baton Rouge
+
+15.Capital of Minnesota:
+A: Des Moines
+B: Topeka
+C: Augusta
+D: Saint Paul
+
+16.Capital of California:
+A: Sacramento
+B: Nashville
+C: Atlanta
+D: Jefferson City
+
+17.Capital of Ohio:
+A: Little Rock
+B: Montpelier
+C: Columbus
+D: Helena
+
+18.Capital of Florida:
+A: Boise
+B: Providence
+C: Boston
+D: Tallahassee
+
+19.Capital of New Jersey:
+A: Madison
+B: Nashville
+C: Bismarck
+D: Trenton
+
+20.Capital of Rhode Island:
+A: Springfield
+B: Carson City
+C: Tallahassee
+D: Providence
+
+21.Capital of Wisconsin:
+A: Juneau
+B: Olympia
+C: Madison
+D: Trenton
+
+22.Capital of Missouri:
+A: Olympia
+B: Raleigh
+C: Salem
+D: Jefferson City
+
+23.Capital of Arkansas:
+A: Madison
+B: Little Rock
+C: Harrisburg
+D: Boston
+
+24.Capital of New York:
+A: Albany
+B: Springfield
+C: Montgomery
+D: Juneau
+
+25.Capital of Mississippi:
+A: Jefferson City
+B: Denver
+C: Lincoln
+D: Jackson
+
+26.Capital of Montana:
+A: Boise
+B: Helena
+C: Springfield
+D: Lincoln
+
+27.Capital of Nevada:
+A: Helena
+B: Richmond
+C: Cheyenne
+D: Carson City
+
+28.Capital of Oklahoma:
+A: Salem
+B: Topeka
+C: Oklahoma City
+D: Jefferson City
+
+29.Capital of New Mexico:
+A: Atlanta
+B: Santa Fe
+C: Madison
+D: Des Moines
+
+30.Capital of Utah:
+A: Albany
+B: Des Moines
+C: Salt Lake City
+D: Salem
+
+31.Capital of Michigan:
+A: Olympia
+B: Denver
+C: Lansing
+D: Trenton
+
+32.Capital of North Dakota:
+A: Richmond
+B: Bismarck
+C: Raleigh
+D: Concord
+
+33.Capital of Arizona:
+A: Boise
+B: Juneau
+C: Phoenix
+D: Tallahassee
+
+34.Capital of Georgia:
+A: Des Moines
+B: Springfield
+C: Atlanta
+D: Salt Lake City
+
+35.Capital of Colorado:
+A: Pierre
+B: Austin
+C: Denver
+D: Juneau
+
+36.Capital of Oregon:
+A: Salem
+B: Jackson
+C: Lincoln
+D: Atlanta
+
+37.Capital of Kansas:
+A: Topeka
+B: Indianapolis
+C: Nashville
+D: Jefferson City
+
+38.Capital of Connecticut:
+A: Madison
+B: Olympia
+C: Hartford
+D: Richmond
+
+39.Capital of South Carolina:
+A: Little Rock
+B: Olympia
+C: Columbia
+D: Des Moines
+
+40.Capital of West Virginia:
+A: Charleston
+B: Sacramento
+C: Columbus
+D: Oklahoma City
+
+41.Capital of New Hampshire:
+A: Boston
+B: Charleston
+C: Raleigh
+D: Concord
+
+42.Capital of Maine:
+A: Augusta
+B: Boise
+C: Richmond
+D: Olympia
+
+43.Capital of Delaware:
+A: Lincoln
+B: Dover
+C: Nashville
+D: Little Rock
+
+44.Capital of Alabama:
+A: Columbus
+B: Montpelier
+C: Montgomery
+D: Austin
+
+45.Capital of North Carolina:
+A: Denver
+B: Pierre
+C: Baton Rouge
+D: Raleigh
+
+46.Capital of Alaska:
+A: Austin
+B: Juneau
+C: Montgomery
+D: Charleston
+
+47.Capital of Iowa:
+A: Frankfort
+B: Cheyenne
+C: Jackson
+D: Des Moines
+
+48.Capital of Illinois:
+A: Bismarck
+B: Baton Rouge
+C: Oklahoma City
+D: Springfield
+
+49.Capital of Indiana:
+A: Jackson
+B: Springfield
+C: Indianapolis
+D: Providence
+
+50.Capital of South Dakota:
+A: Pierre
+B: Trenton
+C: Montgomery
+D: Springfield
+

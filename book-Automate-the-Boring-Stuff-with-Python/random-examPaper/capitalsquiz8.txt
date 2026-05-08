@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form8)
+
+1.Capital of New York:
+A: Albany
+B: Frankfort
+C: Austin
+D: Dover
+
+2.Capital of Texas:
+A: Oklahoma City
+B: Juneau
+C: Des Moines
+D: Austin
+
+3.Capital of Illinois:
+A: Springfield
+B: Denver
+C: Boise
+D: Carson City
+
+4.Capital of Arkansas:
+A: Boise
+B: Santa Fe
+C: Little Rock
+D: Madison
+
+5.Capital of Kentucky:
+A: Topeka
+B: Frankfort
+C: Austin
+D: Pierre
+
+6.Capital of Washington:
+A: Helena
+B: Olympia
+C: Salem
+D: Baton Rouge
+
+7.Capital of Iowa:
+A: Richmond
+B: Frankfort
+C: Oklahoma City
+D: Des Moines
+
+8.Capital of Minnesota:
+A: Saint Paul
+B: Helena
+C: Salt Lake City
+D: Baton Rouge
+
+9.Capital of Georgia:
+A: Annapolis
+B: Trenton
+C: Little Rock
+D: Atlanta
+
+10.Capital of Alabama:
+A: Jefferson City
+B: Montgomery
+C: Springfield
+D: Saint Paul
+
+11.Capital of Utah:
+A: Madison
+B: Saint Paul
+C: Salt Lake City
+D: Nashville
+
+12.Capital of Louisiana:
+A: Honolulu
+B: Baton Rouge
+C: Cheyenne
+D: Juneau
+
+13.Capital of Indiana:
+A: Nashville
+B: Indianapolis
+C: Jefferson City
+D: Annapolis
+
+14.Capital of Nebraska:
+A: Montpelier
+B: Lincoln
+C: Phoenix
+D: Santa Fe
+
+15.Capital of North Carolina:
+A: Augusta
+B: Hartford
+C: Raleigh
+D: Olympia
+
+16.Capital of Tennessee:
+A: Raleigh
+B: Montpelier
+C: Columbus
+D: Nashville
+
+17.Capital of Montana:
+A: Trenton
+B: Richmond
+C: Topeka
+D: Helena
+
+18.Capital of Nevada:
+A: Providence
+B: Atlanta
+C: Carson City
+D: Annapolis
+
+19.Capital of Mississippi:
+A: Little Rock
+B: Sacramento
+C: Jefferson City
+D: Jackson
+
+20.Capital of New Mexico:
+A: Carson City
+B: Providence
+C: Tallahassee
+D: Santa Fe
+
+21.Capital of Rhode Island:
+A: Raleigh
+B: Oklahoma City
+C: Jefferson City
+D: Providence
+
+22.Capital of New Hampshire:
+A: Juneau
+B: Concord
+C: Austin
+D: Helena
+
+23.Capital of Wisconsin:
+A: Baton Rouge
+B: Madison
+C: Jefferson City
+D: Pierre
+
+24.Capital of South Carolina:
+A: Annapolis
+B: Saint Paul
+C: Jackson
+D: Columbia
+
+25.Capital of Ohio:
+A: Jefferson City
+B: Nashville
+C: Lincoln
+D: Columbus
+
+26.Capital of Virginia:
+A: Madison
+B: Columbus
+C: Dover
+D: Richmond
+
+27.Capital of Maine:
+A: Dover
+B: Augusta
+C: Harrisburg
+D: Phoenix
+
+28.Capital of West Virginia:
+A: Honolulu
+B: Saint Paul
+C: Charleston
+D: Jefferson City
+
+29.Capital of Michigan:
+A: Boston
+B: Indianapolis
+C: Columbus
+D: Lansing
+
+30.Capital of North Dakota:
+A: Salt Lake City
+B: Bismarck
+C: Cheyenne
+D: Dover
+
+31.Capital of Pennsylvania:
+A: Cheyenne
+B: Harrisburg
+C: Topeka
+D: Olympia
+
+32.Capital of Alaska:
+A: Oklahoma City
+B: Juneau
+C: Carson City
+D: Helena
+
+33.Capital of Connecticut:
+A: Saint Paul
+B: Hartford
+C: Nashville
+D: Little Rock
+
+34.Capital of Idaho:
+A: Harrisburg
+B: Juneau
+C: Trenton
+D: Boise
+
+35.Capital of California:
+A: Olympia
+B: Sacramento
+C: Tallahassee
+D: Montpelier
+
+36.Capital of Kansas:
+A: Topeka
+B: Santa Fe
+C: Harrisburg
+D: Montpelier
+
+37.Capital of Hawaii:
+A: Cheyenne
+B: Honolulu
+C: Santa Fe
+D: Lansing
+
+38.Capital of Oklahoma:
+A: Boise
+B: Albany
+C: Cheyenne
+D: Oklahoma City
+
+39.Capital of Colorado:
+A: Lincoln
+B: Pierre
+C: Denver
+D: Salem
+
+40.Capital of Massachusetts:
+A: Boise
+B: Jackson
+C: Boston
+D: Des Moines
+
+41.Capital of South Dakota:
+A: Madison
+B: Harrisburg
+C: Pierre
+D: Atlanta
+
+42.Capital of Arizona:
+A: Little Rock
+B: Columbia
+C: Lansing
+D: Phoenix
+
+43.Capital of Wyoming:
+A: Des Moines
+B: Cheyenne
+C: Springfield
+D: Madison
+
+44.Capital of Missouri:
+A: Hartford
+B: Phoenix
+C: Jefferson City
+D: Columbus
+
+45.Capital of New Jersey:
+A: Trenton
+B: Annapolis
+C: Lincoln
+D: Carson City
+
+46.Capital of Maryland:
+A: Concord
+B: Annapolis
+C: Austin
+D: Des Moines
+
+47.Capital of Vermont:
+A: Raleigh
+B: Austin
+C: Bismarck
+D: Montpelier
+
+48.Capital of Florida:
+A: Little Rock
+B: Salem
+C: Saint Paul
+D: Tallahassee
+
+49.Capital of Oregon:
+A: Oklahoma City
+B: Concord
+C: Columbus
+D: Salem
+
+50.Capital of Delaware:
+A: Dover
+B: Topeka
+C: Boston
+D: Augusta
+

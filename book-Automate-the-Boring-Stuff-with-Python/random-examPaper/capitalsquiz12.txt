@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form12)
+
+1.Capital of North Dakota:
+A: Oklahoma City
+B: Annapolis
+C: Olympia
+D: Bismarck
+
+2.Capital of South Carolina:
+A: Dover
+B: Tallahassee
+C: Springfield
+D: Columbia
+
+3.Capital of Arkansas:
+A: Richmond
+B: Salt Lake City
+C: Jackson
+D: Little Rock
+
+4.Capital of South Dakota:
+A: Annapolis
+B: Montgomery
+C: Pierre
+D: Charleston
+
+5.Capital of Wisconsin:
+A: Juneau
+B: Madison
+C: Albany
+D: Carson City
+
+6.Capital of Iowa:
+A: Des Moines
+B: Pierre
+C: Lincoln
+D: Topeka
+
+7.Capital of Florida:
+A: Cheyenne
+B: Tallahassee
+C: Hartford
+D: Juneau
+
+8.Capital of Alaska:
+A: Cheyenne
+B: Trenton
+C: Saint Paul
+D: Juneau
+
+9.Capital of Oklahoma:
+A: Jefferson City
+B: Providence
+C: Boston
+D: Oklahoma City
+
+10.Capital of North Carolina:
+A: Santa Fe
+B: Des Moines
+C: Helena
+D: Raleigh
+
+11.Capital of Ohio:
+A: Richmond
+B: Charleston
+C: Denver
+D: Columbus
+
+12.Capital of Texas:
+A: Columbia
+B: Salem
+C: Nashville
+D: Austin
+
+13.Capital of Vermont:
+A: Pierre
+B: Montpelier
+C: Austin
+D: Denver
+
+14.Capital of Minnesota:
+A: Hartford
+B: Pierre
+C: Raleigh
+D: Saint Paul
+
+15.Capital of Alabama:
+A: Charleston
+B: Topeka
+C: Atlanta
+D: Montgomery
+
+16.Capital of Maine:
+A: Augusta
+B: Baton Rouge
+C: Richmond
+D: Honolulu
+
+17.Capital of Virginia:
+A: Hartford
+B: Harrisburg
+C: Madison
+D: Richmond
+
+18.Capital of New York:
+A: Albany
+B: Olympia
+C: Annapolis
+D: Montpelier
+
+19.Capital of Rhode Island:
+A: Salt Lake City
+B: Tallahassee
+C: Providence
+D: Denver
+
+20.Capital of Kentucky:
+A: Juneau
+B: Columbia
+C: Frankfort
+D: Boise
+
+21.Capital of Washington:
+A: Lansing
+B: Richmond
+C: Sacramento
+D: Olympia
+
+22.Capital of Tennessee:
+A: Dover
+B: Nashville
+C: Topeka
+D: Augusta
+
+23.Capital of Georgia:
+A: Atlanta
+B: Salt Lake City
+C: Hartford
+D: Albany
+
+24.Capital of Delaware:
+A: Lansing
+B: Dover
+C: Columbia
+D: Saint Paul
+
+25.Capital of Michigan:
+A: Lansing
+B: Trenton
+C: Phoenix
+D: Lincoln
+
+26.Capital of Wyoming:
+A: Atlanta
+B: Montpelier
+C: Cheyenne
+D: Bismarck
+
+27.Capital of Montana:
+A: Helena
+B: Hartford
+C: Pierre
+D: Bismarck
+
+28.Capital of Illinois:
+A: Cheyenne
+B: Pierre
+C: Springfield
+D: Boston
+
+29.Capital of Pennsylvania:
+A: Little Rock
+B: Harrisburg
+C: Indianapolis
+D: Columbia
+
+30.Capital of New Jersey:
+A: Albany
+B: Trenton
+C: Salem
+D: Tallahassee
+
+31.Capital of Mississippi:
+A: Saint Paul
+B: Boise
+C: Montgomery
+D: Jackson
+
+32.Capital of New Mexico:
+A: Columbia
+B: Providence
+C: Tallahassee
+D: Santa Fe
+
+33.Capital of California:
+A: Saint Paul
+B: Sacramento
+C: Cheyenne
+D: Montgomery
+
+34.Capital of West Virginia:
+A: Albany
+B: Carson City
+C: Austin
+D: Charleston
+
+35.Capital of Colorado:
+A: Montpelier
+B: Honolulu
+C: Albany
+D: Denver
+
+36.Capital of Nevada:
+A: Augusta
+B: Carson City
+C: Providence
+D: Nashville
+
+37.Capital of Hawaii:
+A: Concord
+B: Saint Paul
+C: Honolulu
+D: Boston
+
+38.Capital of Oregon:
+A: Madison
+B: Lincoln
+C: Salem
+D: Austin
+
+39.Capital of Arizona:
+A: Des Moines
+B: Tallahassee
+C: Phoenix
+D: Little Rock
+
+40.Capital of Indiana:
+A: Frankfort
+B: Concord
+C: Santa Fe
+D: Indianapolis
+
+41.Capital of Missouri:
+A: Bismarck
+B: Atlanta
+C: Santa Fe
+D: Jefferson City
+
+42.Capital of Maryland:
+A: Providence
+B: Honolulu
+C: Atlanta
+D: Annapolis
+
+43.Capital of Kansas:
+A: Montgomery
+B: Topeka
+C: Madison
+D: Denver
+
+44.Capital of Louisiana:
+A: Baton Rouge
+B: Concord
+C: Bismarck
+D: Austin
+
+45.Capital of Connecticut:
+A: Montgomery
+B: Santa Fe
+C: Indianapolis
+D: Hartford
+
+46.Capital of New Hampshire:
+A: Jackson
+B: Nashville
+C: Topeka
+D: Concord
+
+47.Capital of Utah:
+A: Dover
+B: Helena
+C: Salt Lake City
+D: Austin
+
+48.Capital of Idaho:
+A: Austin
+B: Harrisburg
+C: Annapolis
+D: Boise
+
+49.Capital of Nebraska:
+A: Lincoln
+B: Baton Rouge
+C: Jefferson City
+D: Montgomery
+
+50.Capital of Massachusetts:
+A: Charleston
+B: Boston
+C: Pierre
+D: Little Rock
+

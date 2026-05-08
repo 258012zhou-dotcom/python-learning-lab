@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form27)
+
+1.Capital of Arkansas:
+A: Little Rock
+B: Augusta
+C: Helena
+D: Saint Paul
+
+2.Capital of Ohio:
+A: Boston
+B: Saint Paul
+C: Columbus
+D: Trenton
+
+3.Capital of Colorado:
+A: Denver
+B: Nashville
+C: Cheyenne
+D: Springfield
+
+4.Capital of Massachusetts:
+A: Carson City
+B: Columbia
+C: Austin
+D: Boston
+
+5.Capital of Delaware:
+A: Augusta
+B: Dover
+C: Madison
+D: Bismarck
+
+6.Capital of Alaska:
+A: Providence
+B: Carson City
+C: Juneau
+D: Montgomery
+
+7.Capital of Iowa:
+A: Des Moines
+B: Little Rock
+C: Frankfort
+D: Cheyenne
+
+8.Capital of Nevada:
+A: Tallahassee
+B: Carson City
+C: Honolulu
+D: Madison
+
+9.Capital of Illinois:
+A: Helena
+B: Hartford
+C: Bismarck
+D: Springfield
+
+10.Capital of South Dakota:
+A: Pierre
+B: Little Rock
+C: Olympia
+D: Tallahassee
+
+11.Capital of Vermont:
+A: Montpelier
+B: Albany
+C: Concord
+D: Indianapolis
+
+12.Capital of Montana:
+A: Saint Paul
+B: Columbia
+C: Helena
+D: Pierre
+
+13.Capital of Mississippi:
+A: Juneau
+B: Salem
+C: Indianapolis
+D: Jackson
+
+14.Capital of Hawaii:
+A: Salt Lake City
+B: Honolulu
+C: Dover
+D: Austin
+
+15.Capital of New Hampshire:
+A: Olympia
+B: Concord
+C: Pierre
+D: Cheyenne
+
+16.Capital of West Virginia:
+A: Frankfort
+B: Helena
+C: Charleston
+D: Lincoln
+
+17.Capital of Wyoming:
+A: Sacramento
+B: Montgomery
+C: Santa Fe
+D: Cheyenne
+
+18.Capital of Minnesota:
+A: Saint Paul
+B: Boston
+C: Oklahoma City
+D: Annapolis
+
+19.Capital of California:
+A: Frankfort
+B: Annapolis
+C: Santa Fe
+D: Sacramento
+
+20.Capital of Oklahoma:
+A: Carson City
+B: Raleigh
+C: Oklahoma City
+D: Salem
+
+21.Capital of Louisiana:
+A: Juneau
+B: Sacramento
+C: Baton Rouge
+D: Concord
+
+22.Capital of Michigan:
+A: Denver
+B: Lansing
+C: Boise
+D: Phoenix
+
+23.Capital of Tennessee:
+A: Frankfort
+B: Nashville
+C: Columbus
+D: Jackson
+
+24.Capital of Texas:
+A: Phoenix
+B: Madison
+C: Boston
+D: Austin
+
+25.Capital of Idaho:
+A: Boise
+B: Boston
+C: Topeka
+D: Sacramento
+
+26.Capital of Maine:
+A: Juneau
+B: Phoenix
+C: Nashville
+D: Augusta
+
+27.Capital of Florida:
+A: Columbus
+B: Helena
+C: Harrisburg
+D: Tallahassee
+
+28.Capital of North Carolina:
+A: Phoenix
+B: Hartford
+C: Augusta
+D: Raleigh
+
+29.Capital of Virginia:
+A: Frankfort
+B: Augusta
+C: Richmond
+D: Saint Paul
+
+30.Capital of Arizona:
+A: Olympia
+B: Phoenix
+C: Sacramento
+D: Trenton
+
+31.Capital of Pennsylvania:
+A: Harrisburg
+B: Pierre
+C: Springfield
+D: Jefferson City
+
+32.Capital of Missouri:
+A: Trenton
+B: Lansing
+C: Montgomery
+D: Jefferson City
+
+33.Capital of New York:
+A: Baton Rouge
+B: Pierre
+C: Indianapolis
+D: Albany
+
+34.Capital of Nebraska:
+A: Lincoln
+B: Topeka
+C: Atlanta
+D: Baton Rouge
+
+35.Capital of Connecticut:
+A: Springfield
+B: Saint Paul
+C: Oklahoma City
+D: Hartford
+
+36.Capital of Rhode Island:
+A: Oklahoma City
+B: Columbia
+C: Juneau
+D: Providence
+
+37.Capital of New Jersey:
+A: Columbia
+B: Trenton
+C: Boston
+D: Salem
+
+38.Capital of Oregon:
+A: Charleston
+B: Salem
+C: Columbia
+D: Madison
+
+39.Capital of Washington:
+A: Cheyenne
+B: Olympia
+C: Baton Rouge
+D: Indianapolis
+
+40.Capital of Kansas:
+A: Olympia
+B: Topeka
+C: Richmond
+D: Nashville
+
+41.Capital of Georgia:
+A: Atlanta
+B: Pierre
+C: Boston
+D: Baton Rouge
+
+42.Capital of Wisconsin:
+A: Lansing
+B: Harrisburg
+C: Albany
+D: Madison
+
+43.Capital of Alabama:
+A: Concord
+B: Honolulu
+C: Indianapolis
+D: Montgomery
+
+44.Capital of Indiana:
+A: Indianapolis
+B: Columbus
+C: Jackson
+D: Atlanta
+
+45.Capital of New Mexico:
+A: Bismarck
+B: Providence
+C: Santa Fe
+D: Salt Lake City
+
+46.Capital of North Dakota:
+A: Columbia
+B: Frankfort
+C: Phoenix
+D: Bismarck
+
+47.Capital of Maryland:
+A: Annapolis
+B: Columbus
+C: Lincoln
+D: Topeka
+
+48.Capital of Kentucky:
+A: Phoenix
+B: Albany
+C: Frankfort
+D: Denver
+
+49.Capital of South Carolina:
+A: Columbia
+B: Des Moines
+C: Atlanta
+D: Jefferson City
+
+50.Capital of Utah:
+A: Salt Lake City
+B: Topeka
+C: Juneau
+D: Albany
+

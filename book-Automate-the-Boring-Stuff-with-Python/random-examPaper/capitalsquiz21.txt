@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form21)
+
+1.Capital of New Hampshire:
+A: Nashville
+B: Concord
+C: Carson City
+D: Indianapolis
+
+2.Capital of Louisiana:
+A: Santa Fe
+B: Baton Rouge
+C: Montpelier
+D: Olympia
+
+3.Capital of South Dakota:
+A: Pierre
+B: Lansing
+C: Columbus
+D: Saint Paul
+
+4.Capital of Indiana:
+A: Madison
+B: Jackson
+C: Indianapolis
+D: Boston
+
+5.Capital of Georgia:
+A: Charleston
+B: Salt Lake City
+C: Tallahassee
+D: Atlanta
+
+6.Capital of Vermont:
+A: Montpelier
+B: Oklahoma City
+C: Concord
+D: Jackson
+
+7.Capital of Virginia:
+A: Richmond
+B: Annapolis
+C: Charleston
+D: Jackson
+
+8.Capital of Nevada:
+A: Carson City
+B: Bismarck
+C: Phoenix
+D: Boston
+
+9.Capital of California:
+A: Sacramento
+B: Columbus
+C: Montpelier
+D: Frankfort
+
+10.Capital of South Carolina:
+A: Olympia
+B: Columbia
+C: Madison
+D: Providence
+
+11.Capital of North Carolina:
+A: Raleigh
+B: Little Rock
+C: Indianapolis
+D: Richmond
+
+12.Capital of Alabama:
+A: Saint Paul
+B: Montpelier
+C: Montgomery
+D: Dover
+
+13.Capital of Maryland:
+A: Madison
+B: Annapolis
+C: Bismarck
+D: Honolulu
+
+14.Capital of New Jersey:
+A: Frankfort
+B: Tallahassee
+C: Annapolis
+D: Trenton
+
+15.Capital of Wyoming:
+A: Cheyenne
+B: Lansing
+C: Springfield
+D: Augusta
+
+16.Capital of Nebraska:
+A: Cheyenne
+B: Frankfort
+C: Bismarck
+D: Lincoln
+
+17.Capital of Utah:
+A: Salem
+B: Salt Lake City
+C: Albany
+D: Raleigh
+
+18.Capital of Alaska:
+A: Denver
+B: Tallahassee
+C: Juneau
+D: Albany
+
+19.Capital of Oklahoma:
+A: Atlanta
+B: Charleston
+C: Oklahoma City
+D: Austin
+
+20.Capital of Rhode Island:
+A: Cheyenne
+B: Little Rock
+C: Providence
+D: Madison
+
+21.Capital of Colorado:
+A: Denver
+B: Springfield
+C: Little Rock
+D: Atlanta
+
+22.Capital of Ohio:
+A: Harrisburg
+B: Columbus
+C: Cheyenne
+D: Austin
+
+23.Capital of Mississippi:
+A: Jackson
+B: Baton Rouge
+C: Augusta
+D: Lincoln
+
+24.Capital of Massachusetts:
+A: Olympia
+B: Boston
+C: Montgomery
+D: Lansing
+
+25.Capital of Connecticut:
+A: Springfield
+B: Austin
+C: Salt Lake City
+D: Hartford
+
+26.Capital of Arkansas:
+A: Little Rock
+B: Austin
+C: Jackson
+D: Des Moines
+
+27.Capital of Tennessee:
+A: Denver
+B: Madison
+C: Montgomery
+D: Nashville
+
+28.Capital of Minnesota:
+A: Richmond
+B: Lansing
+C: Saint Paul
+D: Carson City
+
+29.Capital of Pennsylvania:
+A: Olympia
+B: Raleigh
+C: Harrisburg
+D: Sacramento
+
+30.Capital of Illinois:
+A: Bismarck
+B: Richmond
+C: Lincoln
+D: Springfield
+
+31.Capital of New Mexico:
+A: Columbus
+B: Tallahassee
+C: Santa Fe
+D: Madison
+
+32.Capital of Idaho:
+A: Boise
+B: Olympia
+C: Cheyenne
+D: Montpelier
+
+33.Capital of Oregon:
+A: Saint Paul
+B: Sacramento
+C: Salem
+D: Albany
+
+34.Capital of Texas:
+A: Phoenix
+B: Austin
+C: Montpelier
+D: Trenton
+
+35.Capital of Missouri:
+A: Providence
+B: Jefferson City
+C: Jackson
+D: Austin
+
+36.Capital of Maine:
+A: Hartford
+B: Augusta
+C: Salem
+D: Boise
+
+37.Capital of Hawaii:
+A: Honolulu
+B: Austin
+C: Nashville
+D: Juneau
+
+38.Capital of West Virginia:
+A: Charleston
+B: Columbia
+C: Montpelier
+D: Jefferson City
+
+39.Capital of Delaware:
+A: Dover
+B: Montgomery
+C: Pierre
+D: Cheyenne
+
+40.Capital of Michigan:
+A: Tallahassee
+B: Lansing
+C: Jackson
+D: Hartford
+
+41.Capital of Florida:
+A: Helena
+B: Olympia
+C: Tallahassee
+D: Augusta
+
+42.Capital of Kentucky:
+A: Columbus
+B: Frankfort
+C: Boise
+D: Lansing
+
+43.Capital of Iowa:
+A: Baton Rouge
+B: Sacramento
+C: Juneau
+D: Des Moines
+
+44.Capital of New York:
+A: Des Moines
+B: Albany
+C: Saint Paul
+D: Montgomery
+
+45.Capital of Arizona:
+A: Springfield
+B: Lansing
+C: Carson City
+D: Phoenix
+
+46.Capital of Washington:
+A: Lincoln
+B: Olympia
+C: Columbia
+D: Bismarck
+
+47.Capital of Montana:
+A: Albany
+B: Concord
+C: Austin
+D: Helena
+
+48.Capital of Wisconsin:
+A: Helena
+B: Madison
+C: Austin
+D: Charleston
+
+49.Capital of North Dakota:
+A: Salem
+B: Honolulu
+C: Bismarck
+D: Cheyenne
+
+50.Capital of Kansas:
+A: Topeka
+B: Austin
+C: Atlanta
+D: Albany
+

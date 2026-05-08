@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form2)
+
+1.Capital of Arizona:
+A: Springfield
+B: Dover
+C: Phoenix
+D: Boise
+
+2.Capital of Washington:
+A: Salt Lake City
+B: Olympia
+C: Saint Paul
+D: Jackson
+
+3.Capital of South Dakota:
+A: Lincoln
+B: Pierre
+C: Atlanta
+D: Olympia
+
+4.Capital of Massachusetts:
+A: Boston
+B: Cheyenne
+C: Lansing
+D: Annapolis
+
+5.Capital of Virginia:
+A: Richmond
+B: Raleigh
+C: Salem
+D: Bismarck
+
+6.Capital of Rhode Island:
+A: Augusta
+B: Columbia
+C: Frankfort
+D: Providence
+
+7.Capital of Maryland:
+A: Annapolis
+B: Nashville
+C: Tallahassee
+D: Sacramento
+
+8.Capital of Arkansas:
+A: Olympia
+B: Raleigh
+C: Little Rock
+D: Carson City
+
+9.Capital of North Dakota:
+A: Bismarck
+B: Boise
+C: Concord
+D: Harrisburg
+
+10.Capital of Alabama:
+A: Springfield
+B: Montgomery
+C: Little Rock
+D: Cheyenne
+
+11.Capital of Alaska:
+A: Juneau
+B: Montpelier
+C: Olympia
+D: Austin
+
+12.Capital of Oklahoma:
+A: Montgomery
+B: Columbus
+C: Oklahoma City
+D: Madison
+
+13.Capital of Wisconsin:
+A: Richmond
+B: Albany
+C: Madison
+D: Austin
+
+14.Capital of Texas:
+A: Austin
+B: Phoenix
+C: Little Rock
+D: Salem
+
+15.Capital of Colorado:
+A: Springfield
+B: Jackson
+C: Denver
+D: Providence
+
+16.Capital of Utah:
+A: Honolulu
+B: Augusta
+C: Helena
+D: Salt Lake City
+
+17.Capital of Oregon:
+A: Salem
+B: Pierre
+C: Boise
+D: Carson City
+
+18.Capital of Pennsylvania:
+A: Frankfort
+B: Montpelier
+C: Harrisburg
+D: Tallahassee
+
+19.Capital of Louisiana:
+A: Salt Lake City
+B: Baton Rouge
+C: Albany
+D: Juneau
+
+20.Capital of Florida:
+A: Austin
+B: Tallahassee
+C: Trenton
+D: Annapolis
+
+21.Capital of Illinois:
+A: Salem
+B: Dover
+C: Springfield
+D: Denver
+
+22.Capital of Idaho:
+A: Sacramento
+B: Boise
+C: Baton Rouge
+D: Nashville
+
+23.Capital of New Hampshire:
+A: Harrisburg
+B: Salt Lake City
+C: Honolulu
+D: Concord
+
+24.Capital of Tennessee:
+A: Pierre
+B: Nashville
+C: Honolulu
+D: Boston
+
+25.Capital of Wyoming:
+A: Providence
+B: Cheyenne
+C: Austin
+D: Denver
+
+26.Capital of Kansas:
+A: Springfield
+B: Saint Paul
+C: Topeka
+D: Nashville
+
+27.Capital of Michigan:
+A: Atlanta
+B: Columbia
+C: Lansing
+D: Jackson
+
+28.Capital of Maine:
+A: Sacramento
+B: Augusta
+C: Montgomery
+D: Indianapolis
+
+29.Capital of Hawaii:
+A: Lincoln
+B: Madison
+C: Honolulu
+D: Oklahoma City
+
+30.Capital of West Virginia:
+A: Annapolis
+B: Helena
+C: Charleston
+D: Bismarck
+
+31.Capital of New Jersey:
+A: Trenton
+B: Denver
+C: Little Rock
+D: Saint Paul
+
+32.Capital of Vermont:
+A: Boston
+B: Montpelier
+C: Austin
+D: Augusta
+
+33.Capital of Iowa:
+A: Des Moines
+B: Columbus
+C: Honolulu
+D: Salt Lake City
+
+34.Capital of Nebraska:
+A: Raleigh
+B: Lincoln
+C: Saint Paul
+D: Concord
+
+35.Capital of South Carolina:
+A: Columbia
+B: Carson City
+C: Trenton
+D: Denver
+
+36.Capital of Delaware:
+A: Dover
+B: Nashville
+C: Denver
+D: Concord
+
+37.Capital of Missouri:
+A: Hartford
+B: Frankfort
+C: Annapolis
+D: Jefferson City
+
+38.Capital of New Mexico:
+A: Harrisburg
+B: Santa Fe
+C: Sacramento
+D: Richmond
+
+39.Capital of Kentucky:
+A: Frankfort
+B: Oklahoma City
+C: Albany
+D: Atlanta
+
+40.Capital of Ohio:
+A: Augusta
+B: Montpelier
+C: Nashville
+D: Columbus
+
+41.Capital of Nevada:
+A: Springfield
+B: Carson City
+C: Dover
+D: Harrisburg
+
+42.Capital of New York:
+A: Albany
+B: Olympia
+C: Salt Lake City
+D: Helena
+
+43.Capital of Georgia:
+A: Columbus
+B: Austin
+C: Nashville
+D: Atlanta
+
+44.Capital of North Carolina:
+A: Nashville
+B: Raleigh
+C: Pierre
+D: Annapolis
+
+45.Capital of Connecticut:
+A: Hartford
+B: Baton Rouge
+C: Honolulu
+D: Augusta
+
+46.Capital of Indiana:
+A: Boston
+B: Jackson
+C: Phoenix
+D: Indianapolis
+
+47.Capital of Minnesota:
+A: Hartford
+B: Richmond
+C: Frankfort
+D: Saint Paul
+
+48.Capital of Mississippi:
+A: Little Rock
+B: Saint Paul
+C: Jackson
+D: Baton Rouge
+
+49.Capital of Montana:
+A: Sacramento
+B: Montpelier
+C: Honolulu
+D: Helena
+
+50.Capital of California:
+A: Sacramento
+B: Boise
+C: Bismarck
+D: Richmond
+

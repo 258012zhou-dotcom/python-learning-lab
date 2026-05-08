@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form7)
+
+1.Capital of Hawaii:
+A: Honolulu
+B: Springfield
+C: Lansing
+D: Columbia
+
+2.Capital of Kansas:
+A: Bismarck
+B: Jackson
+C: Topeka
+D: Montpelier
+
+3.Capital of Iowa:
+A: Dover
+B: Des Moines
+C: Carson City
+D: Boston
+
+4.Capital of Wisconsin:
+A: Madison
+B: Montpelier
+C: Harrisburg
+D: Olympia
+
+5.Capital of California:
+A: Sacramento
+B: Austin
+C: Madison
+D: Jackson
+
+6.Capital of Washington:
+A: Olympia
+B: Boise
+C: Columbus
+D: Cheyenne
+
+7.Capital of Mississippi:
+A: Boston
+B: Richmond
+C: Denver
+D: Jackson
+
+8.Capital of North Carolina:
+A: Montpelier
+B: Raleigh
+C: Pierre
+D: Boise
+
+9.Capital of Nevada:
+A: Carson City
+B: Sacramento
+C: Montpelier
+D: Bismarck
+
+10.Capital of Georgia:
+A: Jackson
+B: Trenton
+C: Atlanta
+D: Olympia
+
+11.Capital of Oklahoma:
+A: Oklahoma City
+B: Honolulu
+C: Frankfort
+D: Juneau
+
+12.Capital of Arkansas:
+A: Nashville
+B: Oklahoma City
+C: Little Rock
+D: Jackson
+
+13.Capital of Indiana:
+A: Indianapolis
+B: Saint Paul
+C: Columbia
+D: Providence
+
+14.Capital of Virginia:
+A: Richmond
+B: Lincoln
+C: Salt Lake City
+D: Trenton
+
+15.Capital of Connecticut:
+A: Hartford
+B: Montgomery
+C: Honolulu
+D: Raleigh
+
+16.Capital of South Dakota:
+A: Helena
+B: Juneau
+C: Pierre
+D: Hartford
+
+17.Capital of Delaware:
+A: Springfield
+B: Cheyenne
+C: Dover
+D: Columbus
+
+18.Capital of Oregon:
+A: Frankfort
+B: Dover
+C: Springfield
+D: Salem
+
+19.Capital of New York:
+A: Topeka
+B: Helena
+C: Albany
+D: Madison
+
+20.Capital of New Hampshire:
+A: Boise
+B: Albany
+C: Saint Paul
+D: Concord
+
+21.Capital of Tennessee:
+A: Bismarck
+B: Santa Fe
+C: Augusta
+D: Nashville
+
+22.Capital of North Dakota:
+A: Lincoln
+B: Annapolis
+C: Bismarck
+D: Lansing
+
+23.Capital of Arizona:
+A: Phoenix
+B: Austin
+C: Annapolis
+D: Richmond
+
+24.Capital of Alabama:
+A: Charleston
+B: Little Rock
+C: Carson City
+D: Montgomery
+
+25.Capital of Ohio:
+A: Hartford
+B: Columbus
+C: Albany
+D: Pierre
+
+26.Capital of Michigan:
+A: Cheyenne
+B: Lansing
+C: Honolulu
+D: Oklahoma City
+
+27.Capital of Missouri:
+A: Columbus
+B: Harrisburg
+C: Charleston
+D: Jefferson City
+
+28.Capital of Massachusetts:
+A: Lansing
+B: Boston
+C: Madison
+D: Raleigh
+
+29.Capital of West Virginia:
+A: Topeka
+B: Madison
+C: Charleston
+D: Honolulu
+
+30.Capital of Vermont:
+A: Albany
+B: Montpelier
+C: Harrisburg
+D: Columbia
+
+31.Capital of Maryland:
+A: Springfield
+B: Annapolis
+C: Richmond
+D: Albany
+
+32.Capital of Colorado:
+A: Richmond
+B: Columbus
+C: Denver
+D: Helena
+
+33.Capital of Utah:
+A: Pierre
+B: Salt Lake City
+C: Indianapolis
+D: Trenton
+
+34.Capital of Louisiana:
+A: Atlanta
+B: Juneau
+C: Baton Rouge
+D: Lansing
+
+35.Capital of Illinois:
+A: Pierre
+B: Indianapolis
+C: Des Moines
+D: Springfield
+
+36.Capital of Rhode Island:
+A: Lincoln
+B: Providence
+C: Oklahoma City
+D: Honolulu
+
+37.Capital of Nebraska:
+A: Little Rock
+B: Lincoln
+C: Olympia
+D: Cheyenne
+
+38.Capital of Texas:
+A: Columbia
+B: Atlanta
+C: Santa Fe
+D: Austin
+
+39.Capital of Alaska:
+A: Juneau
+B: Columbia
+C: Providence
+D: Springfield
+
+40.Capital of Kentucky:
+A: Harrisburg
+B: Frankfort
+C: Lansing
+D: Atlanta
+
+41.Capital of Wyoming:
+A: Boston
+B: Juneau
+C: Cheyenne
+D: Boise
+
+42.Capital of New Jersey:
+A: Des Moines
+B: Tallahassee
+C: Phoenix
+D: Trenton
+
+43.Capital of Florida:
+A: Tallahassee
+B: Nashville
+C: Helena
+D: Oklahoma City
+
+44.Capital of Maine:
+A: Tallahassee
+B: Little Rock
+C: Nashville
+D: Augusta
+
+45.Capital of Pennsylvania:
+A: Harrisburg
+B: Nashville
+C: Olympia
+D: Jefferson City
+
+46.Capital of Idaho:
+A: Phoenix
+B: Harrisburg
+C: Concord
+D: Boise
+
+47.Capital of South Carolina:
+A: Columbia
+B: Cheyenne
+C: Baton Rouge
+D: Indianapolis
+
+48.Capital of New Mexico:
+A: Santa Fe
+B: Little Rock
+C: Raleigh
+D: Bismarck
+
+49.Capital of Minnesota:
+A: Albany
+B: Austin
+C: Denver
+D: Saint Paul
+
+50.Capital of Montana:
+A: Providence
+B: Lincoln
+C: Madison
+D: Helena
+

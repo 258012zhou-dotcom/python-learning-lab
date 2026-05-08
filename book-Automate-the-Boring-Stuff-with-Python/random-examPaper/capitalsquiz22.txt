@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form22)
+
+1.Capital of Massachusetts:
+A: Oklahoma City
+B: Boston
+C: Helena
+D: Phoenix
+
+2.Capital of Missouri:
+A: Jefferson City
+B: Juneau
+C: Nashville
+D: Olympia
+
+3.Capital of Washington:
+A: Cheyenne
+B: Tallahassee
+C: Montgomery
+D: Olympia
+
+4.Capital of Maryland:
+A: Raleigh
+B: Richmond
+C: Cheyenne
+D: Annapolis
+
+5.Capital of Texas:
+A: Santa Fe
+B: Salt Lake City
+C: Honolulu
+D: Austin
+
+6.Capital of North Dakota:
+A: Bismarck
+B: Boise
+C: Honolulu
+D: Boston
+
+7.Capital of South Dakota:
+A: Pierre
+B: Harrisburg
+C: Lansing
+D: Oklahoma City
+
+8.Capital of Arkansas:
+A: Little Rock
+B: Montpelier
+C: Annapolis
+D: Springfield
+
+9.Capital of Tennessee:
+A: Nashville
+B: Charleston
+C: Sacramento
+D: Springfield
+
+10.Capital of South Carolina:
+A: Columbia
+B: Helena
+C: Carson City
+D: Trenton
+
+11.Capital of Ohio:
+A: Boise
+B: Columbus
+C: Nashville
+D: Topeka
+
+12.Capital of Pennsylvania:
+A: Augusta
+B: Tallahassee
+C: Boston
+D: Harrisburg
+
+13.Capital of Alaska:
+A: Frankfort
+B: Tallahassee
+C: Phoenix
+D: Juneau
+
+14.Capital of Mississippi:
+A: Springfield
+B: Richmond
+C: Oklahoma City
+D: Jackson
+
+15.Capital of New York:
+A: Jefferson City
+B: Albany
+C: Annapolis
+D: Providence
+
+16.Capital of Nebraska:
+A: Phoenix
+B: Lincoln
+C: Oklahoma City
+D: Springfield
+
+17.Capital of Louisiana:
+A: Salt Lake City
+B: Honolulu
+C: Baton Rouge
+D: Olympia
+
+18.Capital of Hawaii:
+A: Des Moines
+B: Honolulu
+C: Juneau
+D: Salt Lake City
+
+19.Capital of Oklahoma:
+A: Oklahoma City
+B: Boston
+C: Salem
+D: Raleigh
+
+20.Capital of Vermont:
+A: Lansing
+B: Annapolis
+C: Raleigh
+D: Montpelier
+
+21.Capital of Kansas:
+A: Concord
+B: Providence
+C: Topeka
+D: Montgomery
+
+22.Capital of Florida:
+A: Springfield
+B: Tallahassee
+C: Columbia
+D: Boise
+
+23.Capital of Oregon:
+A: Saint Paul
+B: Salem
+C: Augusta
+D: Baton Rouge
+
+24.Capital of Idaho:
+A: Des Moines
+B: Austin
+C: Boise
+D: Sacramento
+
+25.Capital of Kentucky:
+A: Nashville
+B: Cheyenne
+C: Frankfort
+D: Richmond
+
+26.Capital of Maine:
+A: Harrisburg
+B: Augusta
+C: Trenton
+D: Dover
+
+27.Capital of California:
+A: Nashville
+B: Sacramento
+C: Oklahoma City
+D: Frankfort
+
+28.Capital of Georgia:
+A: Tallahassee
+B: Springfield
+C: Atlanta
+D: Boston
+
+29.Capital of Colorado:
+A: Carson City
+B: Denver
+C: Austin
+D: Santa Fe
+
+30.Capital of Iowa:
+A: Montpelier
+B: Des Moines
+C: Hartford
+D: Augusta
+
+31.Capital of Nevada:
+A: Montpelier
+B: Honolulu
+C: Saint Paul
+D: Carson City
+
+32.Capital of Connecticut:
+A: Phoenix
+B: Des Moines
+C: Olympia
+D: Hartford
+
+33.Capital of Michigan:
+A: Baton Rouge
+B: Lansing
+C: Denver
+D: Lincoln
+
+34.Capital of Wisconsin:
+A: Denver
+B: Topeka
+C: Madison
+D: Olympia
+
+35.Capital of Minnesota:
+A: Albany
+B: Saint Paul
+C: Des Moines
+D: Tallahassee
+
+36.Capital of Utah:
+A: Carson City
+B: Montpelier
+C: Boston
+D: Salt Lake City
+
+37.Capital of Montana:
+A: Indianapolis
+B: Albany
+C: Helena
+D: Concord
+
+38.Capital of Delaware:
+A: Springfield
+B: Des Moines
+C: Baton Rouge
+D: Dover
+
+39.Capital of North Carolina:
+A: Raleigh
+B: Denver
+C: Little Rock
+D: Albany
+
+40.Capital of New Mexico:
+A: Indianapolis
+B: Atlanta
+C: Springfield
+D: Santa Fe
+
+41.Capital of West Virginia:
+A: Oklahoma City
+B: Topeka
+C: Salem
+D: Charleston
+
+42.Capital of Virginia:
+A: Oklahoma City
+B: Jackson
+C: Richmond
+D: Saint Paul
+
+43.Capital of Illinois:
+A: Springfield
+B: Boise
+C: Phoenix
+D: Montgomery
+
+44.Capital of Wyoming:
+A: Topeka
+B: Juneau
+C: Cheyenne
+D: Madison
+
+45.Capital of Alabama:
+A: Albany
+B: Tallahassee
+C: Montgomery
+D: Sacramento
+
+46.Capital of Indiana:
+A: Honolulu
+B: Boise
+C: Indianapolis
+D: Raleigh
+
+47.Capital of Arizona:
+A: Providence
+B: Oklahoma City
+C: Phoenix
+D: Santa Fe
+
+48.Capital of Rhode Island:
+A: Augusta
+B: Jefferson City
+C: Providence
+D: Atlanta
+
+49.Capital of New Hampshire:
+A: Salem
+B: Salt Lake City
+C: Concord
+D: Indianapolis
+
+50.Capital of New Jersey:
+A: Little Rock
+B: Atlanta
+C: Honolulu
+D: Trenton
+

@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form18)
+
+1.Capital of Iowa:
+A: Cheyenne
+B: Austin
+C: Des Moines
+D: Augusta
+
+2.Capital of New Mexico:
+A: Baton Rouge
+B: Santa Fe
+C: Trenton
+D: Concord
+
+3.Capital of Virginia:
+A: Atlanta
+B: Richmond
+C: Providence
+D: Juneau
+
+4.Capital of Arizona:
+A: Atlanta
+B: Austin
+C: Phoenix
+D: Trenton
+
+5.Capital of Pennsylvania:
+A: Frankfort
+B: Bismarck
+C: Concord
+D: Harrisburg
+
+6.Capital of California:
+A: Springfield
+B: Sacramento
+C: Atlanta
+D: Lincoln
+
+7.Capital of Washington:
+A: Sacramento
+B: Frankfort
+C: Richmond
+D: Olympia
+
+8.Capital of Oklahoma:
+A: Oklahoma City
+B: Austin
+C: Madison
+D: Topeka
+
+9.Capital of Oregon:
+A: Topeka
+B: Columbia
+C: Salem
+D: Augusta
+
+10.Capital of Florida:
+A: Salem
+B: Denver
+C: Madison
+D: Tallahassee
+
+11.Capital of Louisiana:
+A: Augusta
+B: Baton Rouge
+C: Lansing
+D: Olympia
+
+12.Capital of Connecticut:
+A: Saint Paul
+B: Des Moines
+C: Trenton
+D: Hartford
+
+13.Capital of Nevada:
+A: Lansing
+B: Denver
+C: Carson City
+D: Richmond
+
+14.Capital of Montana:
+A: Helena
+B: Richmond
+C: Austin
+D: Honolulu
+
+15.Capital of South Dakota:
+A: Honolulu
+B: Saint Paul
+C: Denver
+D: Pierre
+
+16.Capital of Kansas:
+A: Atlanta
+B: Topeka
+C: Juneau
+D: Santa Fe
+
+17.Capital of Georgia:
+A: Pierre
+B: Cheyenne
+C: Atlanta
+D: Trenton
+
+18.Capital of Utah:
+A: Montgomery
+B: Salt Lake City
+C: Santa Fe
+D: Hartford
+
+19.Capital of Wyoming:
+A: Santa Fe
+B: Trenton
+C: Cheyenne
+D: Boston
+
+20.Capital of Kentucky:
+A: Frankfort
+B: Raleigh
+C: Concord
+D: Madison
+
+21.Capital of Maine:
+A: Baton Rouge
+B: Augusta
+C: Montgomery
+D: Madison
+
+22.Capital of Idaho:
+A: Charleston
+B: Annapolis
+C: Boise
+D: Austin
+
+23.Capital of Minnesota:
+A: Raleigh
+B: Des Moines
+C: Saint Paul
+D: Montgomery
+
+24.Capital of Tennessee:
+A: Nashville
+B: Cheyenne
+C: Trenton
+D: Raleigh
+
+25.Capital of Alaska:
+A: Atlanta
+B: Saint Paul
+C: Montpelier
+D: Juneau
+
+26.Capital of Maryland:
+A: Saint Paul
+B: Annapolis
+C: Raleigh
+D: Carson City
+
+27.Capital of Hawaii:
+A: Honolulu
+B: Albany
+C: Montpelier
+D: Saint Paul
+
+28.Capital of Michigan:
+A: Columbia
+B: Columbus
+C: Oklahoma City
+D: Lansing
+
+29.Capital of New York:
+A: Salt Lake City
+B: Lincoln
+C: Albany
+D: Boston
+
+30.Capital of Vermont:
+A: Cheyenne
+B: Jackson
+C: Albany
+D: Montpelier
+
+31.Capital of North Carolina:
+A: Albany
+B: Saint Paul
+C: Jefferson City
+D: Raleigh
+
+32.Capital of Colorado:
+A: Denver
+B: Frankfort
+C: Trenton
+D: Santa Fe
+
+33.Capital of New Jersey:
+A: Saint Paul
+B: Montpelier
+C: Trenton
+D: Juneau
+
+34.Capital of Nebraska:
+A: Lincoln
+B: Oklahoma City
+C: Salem
+D: Salt Lake City
+
+35.Capital of New Hampshire:
+A: Trenton
+B: Concord
+C: Honolulu
+D: Salem
+
+36.Capital of Mississippi:
+A: Albany
+B: Indianapolis
+C: Helena
+D: Jackson
+
+37.Capital of Indiana:
+A: Charleston
+B: Des Moines
+C: Indianapolis
+D: Lansing
+
+38.Capital of North Dakota:
+A: Hartford
+B: Sacramento
+C: Bismarck
+D: Madison
+
+39.Capital of Wisconsin:
+A: Madison
+B: Montpelier
+C: Lincoln
+D: Des Moines
+
+40.Capital of West Virginia:
+A: Annapolis
+B: Augusta
+C: Charleston
+D: Columbia
+
+41.Capital of Delaware:
+A: Raleigh
+B: Tallahassee
+C: Atlanta
+D: Dover
+
+42.Capital of Missouri:
+A: Pierre
+B: Jefferson City
+C: Springfield
+D: Nashville
+
+43.Capital of Ohio:
+A: Baton Rouge
+B: Tallahassee
+C: Columbus
+D: Nashville
+
+44.Capital of Texas:
+A: Charleston
+B: Jefferson City
+C: Madison
+D: Austin
+
+45.Capital of South Carolina:
+A: Bismarck
+B: Little Rock
+C: Columbia
+D: Raleigh
+
+46.Capital of Massachusetts:
+A: Boston
+B: Salt Lake City
+C: Indianapolis
+D: Albany
+
+47.Capital of Rhode Island:
+A: Atlanta
+B: Providence
+C: Indianapolis
+D: Nashville
+
+48.Capital of Arkansas:
+A: Annapolis
+B: Hartford
+C: Des Moines
+D: Little Rock
+
+49.Capital of Illinois:
+A: Montpelier
+B: Nashville
+C: Springfield
+D: Topeka
+
+50.Capital of Alabama:
+A: Topeka
+B: Montgomery
+C: Richmond
+D: Nashville
+

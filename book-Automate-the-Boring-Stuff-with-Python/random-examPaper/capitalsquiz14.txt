@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form14)
+
+1.Capital of Wisconsin:
+A: Austin
+B: Providence
+C: Baton Rouge
+D: Madison
+
+2.Capital of New Hampshire:
+A: Baton Rouge
+B: Concord
+C: Annapolis
+D: Lansing
+
+3.Capital of Nevada:
+A: Pierre
+B: Carson City
+C: Providence
+D: Jefferson City
+
+4.Capital of Louisiana:
+A: Montpelier
+B: Carson City
+C: Olympia
+D: Baton Rouge
+
+5.Capital of New York:
+A: Albany
+B: Salt Lake City
+C: Carson City
+D: Concord
+
+6.Capital of Virginia:
+A: Augusta
+B: Richmond
+C: Salt Lake City
+D: Topeka
+
+7.Capital of Kansas:
+A: Helena
+B: Topeka
+C: Austin
+D: Montpelier
+
+8.Capital of Tennessee:
+A: Lansing
+B: Augusta
+C: Cheyenne
+D: Nashville
+
+9.Capital of Arizona:
+A: Indianapolis
+B: Cheyenne
+C: Madison
+D: Phoenix
+
+10.Capital of Florida:
+A: Saint Paul
+B: Helena
+C: Tallahassee
+D: Richmond
+
+11.Capital of North Carolina:
+A: Raleigh
+B: Augusta
+C: Tallahassee
+D: Carson City
+
+12.Capital of South Carolina:
+A: Madison
+B: Lincoln
+C: Cheyenne
+D: Columbia
+
+13.Capital of Michigan:
+A: Lansing
+B: Pierre
+C: Augusta
+D: Phoenix
+
+14.Capital of Maine:
+A: Juneau
+B: Denver
+C: Trenton
+D: Augusta
+
+15.Capital of South Dakota:
+A: Raleigh
+B: Pierre
+C: Tallahassee
+D: Oklahoma City
+
+16.Capital of Minnesota:
+A: Boise
+B: Saint Paul
+C: Augusta
+D: Richmond
+
+17.Capital of Texas:
+A: Albany
+B: Austin
+C: Juneau
+D: Harrisburg
+
+18.Capital of Vermont:
+A: Saint Paul
+B: Little Rock
+C: Boston
+D: Montpelier
+
+19.Capital of Indiana:
+A: Boise
+B: Juneau
+C: Indianapolis
+D: Columbia
+
+20.Capital of Alaska:
+A: Carson City
+B: Albany
+C: Oklahoma City
+D: Juneau
+
+21.Capital of Wyoming:
+A: Cheyenne
+B: Raleigh
+C: Albany
+D: Augusta
+
+22.Capital of Oklahoma:
+A: Topeka
+B: Atlanta
+C: Oklahoma City
+D: Sacramento
+
+23.Capital of Alabama:
+A: Montgomery
+B: Oklahoma City
+C: Augusta
+D: Annapolis
+
+24.Capital of Montana:
+A: Olympia
+B: Helena
+C: Trenton
+D: Jefferson City
+
+25.Capital of Rhode Island:
+A: Des Moines
+B: Springfield
+C: Bismarck
+D: Providence
+
+26.Capital of Washington:
+A: Pierre
+B: Topeka
+C: Olympia
+D: Lincoln
+
+27.Capital of West Virginia:
+A: Concord
+B: Frankfort
+C: Phoenix
+D: Charleston
+
+28.Capital of Connecticut:
+A: Montpelier
+B: Honolulu
+C: Hartford
+D: Lansing
+
+29.Capital of Massachusetts:
+A: Baton Rouge
+B: Boston
+C: Springfield
+D: Atlanta
+
+30.Capital of Delaware:
+A: Dover
+B: Columbia
+C: Albany
+D: Madison
+
+31.Capital of Missouri:
+A: Lincoln
+B: Trenton
+C: Jefferson City
+D: Columbia
+
+32.Capital of Iowa:
+A: Des Moines
+B: Trenton
+C: Atlanta
+D: Helena
+
+33.Capital of California:
+A: Sacramento
+B: Raleigh
+C: Atlanta
+D: Honolulu
+
+34.Capital of Arkansas:
+A: Nashville
+B: Dover
+C: Little Rock
+D: Concord
+
+35.Capital of Kentucky:
+A: Cheyenne
+B: Frankfort
+C: Sacramento
+D: Olympia
+
+36.Capital of Colorado:
+A: Denver
+B: Nashville
+C: Little Rock
+D: Charleston
+
+37.Capital of Maryland:
+A: Trenton
+B: Jackson
+C: Dover
+D: Annapolis
+
+38.Capital of Nebraska:
+A: Lincoln
+B: Providence
+C: Helena
+D: Indianapolis
+
+39.Capital of Georgia:
+A: Boise
+B: Atlanta
+C: Providence
+D: Baton Rouge
+
+40.Capital of Oregon:
+A: Boise
+B: Salem
+C: Tallahassee
+D: Bismarck
+
+41.Capital of Hawaii:
+A: Honolulu
+B: Nashville
+C: Little Rock
+D: Dover
+
+42.Capital of Ohio:
+A: Des Moines
+B: Hartford
+C: Columbus
+D: Charleston
+
+43.Capital of Mississippi:
+A: Hartford
+B: Trenton
+C: Augusta
+D: Jackson
+
+44.Capital of Idaho:
+A: Boise
+B: Madison
+C: Richmond
+D: Nashville
+
+45.Capital of North Dakota:
+A: Bismarck
+B: Juneau
+C: Jefferson City
+D: Springfield
+
+46.Capital of Utah:
+A: Harrisburg
+B: Raleigh
+C: Salt Lake City
+D: Madison
+
+47.Capital of New Mexico:
+A: Hartford
+B: Lincoln
+C: Columbus
+D: Santa Fe
+
+48.Capital of Illinois:
+A: Columbus
+B: Santa Fe
+C: Madison
+D: Springfield
+
+49.Capital of New Jersey:
+A: Lincoln
+B: Austin
+C: Trenton
+D: Springfield
+
+50.Capital of Pennsylvania:
+A: Montpelier
+B: Concord
+C: Harrisburg
+D: Denver
+

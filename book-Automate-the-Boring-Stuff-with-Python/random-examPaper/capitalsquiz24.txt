@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form24)
+
+1.Capital of Hawaii:
+A: Honolulu
+B: Charleston
+C: Montpelier
+D: Carson City
+
+2.Capital of Nebraska:
+A: Lincoln
+B: Topeka
+C: Honolulu
+D: Atlanta
+
+3.Capital of Virginia:
+A: Jefferson City
+B: Harrisburg
+C: Hartford
+D: Richmond
+
+4.Capital of New Hampshire:
+A: Annapolis
+B: Montpelier
+C: Concord
+D: Santa Fe
+
+5.Capital of Vermont:
+A: Montpelier
+B: Jackson
+C: Columbus
+D: Nashville
+
+6.Capital of New Mexico:
+A: Santa Fe
+B: Harrisburg
+C: Montpelier
+D: Albany
+
+7.Capital of Mississippi:
+A: Richmond
+B: Concord
+C: Harrisburg
+D: Jackson
+
+8.Capital of Rhode Island:
+A: Harrisburg
+B: Richmond
+C: Little Rock
+D: Providence
+
+9.Capital of New Jersey:
+A: Denver
+B: Trenton
+C: Annapolis
+D: Lansing
+
+10.Capital of Florida:
+A: Pierre
+B: Tallahassee
+C: Madison
+D: Cheyenne
+
+11.Capital of Wyoming:
+A: Providence
+B: Tallahassee
+C: Bismarck
+D: Cheyenne
+
+12.Capital of Nevada:
+A: Richmond
+B: Columbus
+C: Carson City
+D: Tallahassee
+
+13.Capital of Alaska:
+A: Annapolis
+B: Denver
+C: Juneau
+D: Montpelier
+
+14.Capital of Missouri:
+A: Providence
+B: Tallahassee
+C: Boston
+D: Jefferson City
+
+15.Capital of Idaho:
+A: Santa Fe
+B: Boise
+C: Lansing
+D: Springfield
+
+16.Capital of Louisiana:
+A: Montpelier
+B: Tallahassee
+C: Baton Rouge
+D: Harrisburg
+
+17.Capital of Arkansas:
+A: Atlanta
+B: Little Rock
+C: Charleston
+D: Dover
+
+18.Capital of Massachusetts:
+A: Boston
+B: Denver
+C: Carson City
+D: Baton Rouge
+
+19.Capital of Oregon:
+A: Indianapolis
+B: Frankfort
+C: Saint Paul
+D: Salem
+
+20.Capital of Maryland:
+A: Jefferson City
+B: Helena
+C: Raleigh
+D: Annapolis
+
+21.Capital of Montana:
+A: Helena
+B: Phoenix
+C: Madison
+D: Lincoln
+
+22.Capital of Minnesota:
+A: Saint Paul
+B: Columbus
+C: Salem
+D: Olympia
+
+23.Capital of West Virginia:
+A: Boise
+B: Hartford
+C: Helena
+D: Charleston
+
+24.Capital of Delaware:
+A: Trenton
+B: Tallahassee
+C: Dover
+D: Juneau
+
+25.Capital of Washington:
+A: Olympia
+B: Nashville
+C: Columbus
+D: Providence
+
+26.Capital of Illinois:
+A: Phoenix
+B: Springfield
+C: Little Rock
+D: Hartford
+
+27.Capital of Oklahoma:
+A: Springfield
+B: Augusta
+C: Frankfort
+D: Oklahoma City
+
+28.Capital of Michigan:
+A: Lansing
+B: Juneau
+C: Columbia
+D: Little Rock
+
+29.Capital of Indiana:
+A: Phoenix
+B: Pierre
+C: Indianapolis
+D: Columbia
+
+30.Capital of Colorado:
+A: Carson City
+B: Denver
+C: Lansing
+D: Montpelier
+
+31.Capital of Alabama:
+A: Albany
+B: Montgomery
+C: Juneau
+D: Lincoln
+
+32.Capital of Arizona:
+A: Salt Lake City
+B: Providence
+C: Phoenix
+D: Dover
+
+33.Capital of South Dakota:
+A: Richmond
+B: Baton Rouge
+C: Pierre
+D: Olympia
+
+34.Capital of Iowa:
+A: Jackson
+B: Columbia
+C: Des Moines
+D: Phoenix
+
+35.Capital of North Dakota:
+A: Lansing
+B: Saint Paul
+C: Montgomery
+D: Bismarck
+
+36.Capital of Wisconsin:
+A: Concord
+B: Madison
+C: Boston
+D: Tallahassee
+
+37.Capital of Kansas:
+A: Raleigh
+B: Helena
+C: Topeka
+D: Dover
+
+38.Capital of Utah:
+A: Salt Lake City
+B: Montpelier
+C: Trenton
+D: Augusta
+
+39.Capital of New York:
+A: Charleston
+B: Albany
+C: Baton Rouge
+D: Montpelier
+
+40.Capital of Texas:
+A: Little Rock
+B: Trenton
+C: Helena
+D: Austin
+
+41.Capital of Tennessee:
+A: Santa Fe
+B: Bismarck
+C: Nashville
+D: Des Moines
+
+42.Capital of Kentucky:
+A: Salt Lake City
+B: Dover
+C: Frankfort
+D: Juneau
+
+43.Capital of Ohio:
+A: Boston
+B: Annapolis
+C: Oklahoma City
+D: Columbus
+
+44.Capital of California:
+A: Atlanta
+B: Nashville
+C: Sacramento
+D: Boston
+
+45.Capital of North Carolina:
+A: Dover
+B: Little Rock
+C: Raleigh
+D: Topeka
+
+46.Capital of Pennsylvania:
+A: Harrisburg
+B: Albany
+C: Honolulu
+D: Austin
+
+47.Capital of Connecticut:
+A: Hartford
+B: Des Moines
+C: Santa Fe
+D: Denver
+
+48.Capital of Maine:
+A: Dover
+B: Augusta
+C: Nashville
+D: Columbus
+
+49.Capital of South Carolina:
+A: Des Moines
+B: Saint Paul
+C: Columbia
+D: Nashville
+
+50.Capital of Georgia:
+A: Phoenix
+B: Pierre
+C: Atlanta
+D: Boston
+
